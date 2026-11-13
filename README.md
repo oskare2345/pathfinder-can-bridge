@@ -175,4 +175,4 @@ Settings are written by Pathfinder with `3B <id> <value LSB first>` (local ID) o
 The protocol was worked out by observing the communication between Pathfinder and a truck, for
 interoperability with other hardware. No Linde code, data files or documents are part of this
 repository – please do not add any (pull requests containing them will be rejected).
-See [LICENSE](LICENSE).
+See [LICENSE](LICENSE) (MIT) and [NOTICE.md](NOTICE.md).
