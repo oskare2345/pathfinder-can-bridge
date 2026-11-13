@@ -1,0 +1,24 @@
+# personal settings and truck data - never commit
+pathfinder_gui.json
+*.log
+faults*.csv
+faults_state.json
+faults_state.json.tmp
+compat_report_*.md
+SHARE_*
+session*.txt
+diag*.txt
+
+# Linde material must never be committed
+*.pdf
+*.cla
+SB_*/
+pf_files*
+
+# Python / build
+__pycache__/
+*.pyc
+*.zip
+dist/
+build/
+.venv/

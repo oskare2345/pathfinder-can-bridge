@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question / how do I ...?
+    url: https://github.com/oskare2345/pathfinder-can-bridge/discussions/categories/q-a
+    about: Questions about setup and use go to Discussions, not Issues.
+  - name: Getting Pathfinder or a licence
+    url: https://github.com/oskare2345/pathfinder-can-bridge#readme
+    about: Not provided here - you need your own licensed copy. Such requests are closed.
