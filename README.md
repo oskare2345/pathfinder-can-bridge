@@ -50,6 +50,16 @@ Pathfinder ── COM7 ══ virtual serial pair ══ COM8 ── bridge ─�
    device" crashes. **Check the pinout of your truck's diagnostic socket before connecting anything** –
    some sockets also carry battery voltage.
 
+## Wiring
+
+!!! In diagnostic connector make sure you do not connect adapter to power pin !!!
+1. Connect GND of adapter to GND of forklift
+2. Connect Can L of adapter to Can L of forklift
+3. Connect Can H of adapter to Can H of forklift.
+4. Double check everything - failure to connect properly might damage truch controller!
+
+
+   
 ## Every time
 
 1. Switch the truck **on**.
